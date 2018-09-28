@@ -1,0 +1,28 @@
+.outputStyle {
+    margin-top:30px;
+    background-color: rgb(255, 255, 255);
+}
+
+.outputHeader {
+    background-color: #673AB7;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+
+.hrTextStyle {  
+    margin-top: -12px;
+}
+
+.hrStyle {
+    border: 2px solid rgb(114, 114, 114);
+}
+
+.hrOutputStyle {
+    padding-left: 10px;
+}
+
+.btnStyle {
+    width: 100%;
+    display: block;
+}
